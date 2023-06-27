@@ -69,9 +69,10 @@
 
 [hackerone](https://hackerone.com/)
 
-https://10minutemail.com/
-https://temp-mail.org/
-https://www.moakt.com/
+[10minutemail](https://10minutemail.com/)
+[temp mail](https://temp-mail.org/)
+[moakt](https://www.moakt.com/)
+[emailondeck](https://www.emailondeck.com/eod.php)
 ##  AI
 https://aiartists.org/ai-generated-art-tools
 [portfolio](https://katherineoelsner.com/)
@@ -106,6 +107,7 @@ https://www.mathway.com/
 [figma](https://figma.com)
 
 https://www.iconfinder.com/
+https://www.canva.com/
 ## online IDE
 
 [onlinegdb](https://www.onlinegdb.com/)
@@ -121,7 +123,7 @@ https://replit.com/languages/c
 https://www.programiz.com/c-programming/online-compiler/
 https://www.tutorialspoint.com/online_c_compiler.php
 
-## Compatitive Programming
+## Competitive Programming
 
 [codeforces](https://codeforces.com/)
 
@@ -136,17 +138,37 @@ https://www.codecademy.com/
 https://medium.com/
 https://www.sololearn.com/
 https://satr.codes/list/courses
+https://www.web3arabs.com/
+https://web3.career/learn-web3
 
 ## Freelance
 https://www.upwork.com/
 
-## GitHub
+##  useful tools
+https://anotepad.com/
+https://padlet.com/
+https://www.ilovepdf.com/
+https://trello.com/
+https://www.notion.so/
+https://www.canva.com/create/resumes/
+https://todo.microsoft.com/
+https://qrfy.com/my-qr-codes
+https://slidesgo.com/
+https://slides.com/
+https://erdplus.com/
+
+##  FTP
+https://wetransfer.com/ //ftp
+https://file.pizza/ //ftp
+https://onedoes.github.io/snapdrop/ like Apple AirDrop but for the web. Share files directly between devices in the same network without having to upload them to any server first.
+
+## GitHub tools
 https://shields.io/
 https://profile-readme-generator.com/
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 https://readme.so/editor
 https://dillinger.io/
-## Some other working sites
+## carrer important sites
 https://angel.co/
 https://www.f6s.com/
 https://stackoverflow.com/
@@ -159,23 +181,22 @@ https://thesilican.com/resistance/
 https://quran.com/
 https://quran.ksu.edu.sa/
 https://www.lucidchart.com/pages/
-https://trello.com/
-https://www.notion.so/
-https://todo.microsoft.com/
-https://qrfy.com/my-qr-codes
+
+
+
 https://www.lipsum.com/
 https://emojikeyboard.org/
 https://copychar.cc/
 https://h5.tu.qq.com/web/ai-2d/cartoon/index
-https://www.ilovepdf.com/
+
 https://www.pdfescape.com/open/
 https://www.pdfescape.com/
-https://padlet.com/
+
 https://fast.com/ar/
 https://www.speedtest.net/
 https://www.asciiart.eu/art-and-design
 https://fsymbols.com/text-art/
-https://anotepad.com/
+
 https://www.timer-tab.com/
 https://www.clocktab.com/
 https://dayspedia.com/time/online/
@@ -193,8 +214,7 @@ https://dictation.io/
 https://www.onlineocr.net/
 https://infogram.com/
 https://alternativeto.net/
-https://slidesgo.com/
-https://slides.com/
+
 https://meet.jit.si/
 https://www.random.org/
 https://squoosh.app/
@@ -224,23 +244,21 @@ https://www.homestyler.com/
 https://asciiflow.com/#/
 https://kleki.com/
 https://excalidraw.com/
-https://wetransfer.com/ //ftp
-https://file.pizza/ //ftp
-https://onedoes.github.io/snapdrop/ like Apple AirDrop but for the web. Share files directly between devices in the same network without having to upload them to any server first.
+
 https://www.grammarly.com/
 http://hundredzeros.com/
 https://www.noteflight.com/
 https://www.similarsites.com/
 https://bubbl.us/
 https://color.adobe.com/
-https://www.canva.com/
+
 https://www.midomi.com/
 https://faxzero.com/
 https://tinychat.com/
 https://gtmetrix.com/
 https://builtwith.com/
 https://cvmkr.com/
-https://www.canva.com/create/resumes/
+
 https://www.urbandictionary.com/
 https://glitch.com/
 https://stackblitz.com/
@@ -266,7 +284,8 @@ https://adioma.com/
 https://www.easel.ly/
 https://icons8.com/
 https://gohighbrow.com/
-https://appinventor.mit.edu/ // like skratch
+https://appinventor.mit.edu/ // like scratch
+https://scratch.mit.edu/
 https://thunkable.com/#/
 https://htmlmail.pro/
 https://mockaroo.com/
@@ -280,7 +299,7 @@ https://html.com/resources/cookies-ultimate-guide/
 https://www.create.net/support/add-cookie-consent
 https://www.synthesia.io/post/ai-tools
 https://codex.cs.yale.edu/avi/os-book/OS8/os8j/slide-dir/index.html
-https://erdplus.com/
+
 toolscout.ai
 slidekick.ai
 https://beta.tome.app/
@@ -345,7 +364,7 @@ https://cbom.atozmath.com/CBOM/PertCPM.aspx
 https://miniapps.ai/
 https://onlinenotepad.org/notepad
 clicksend.com/
-https://www.emailondeck.com/eod.php
+
 https://www.talkatone.com/
 https://sms24.me/en/numbers/40731883509/2
 https://www.toools.design/
