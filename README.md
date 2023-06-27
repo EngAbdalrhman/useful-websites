@@ -175,8 +175,35 @@ https://web3.career/learn-web3
 https://www.geeksforgeeks.org/
 
 https://www.javatpoint.com/
+
+https://www.tutorialspoint.com/
+
+https://www.programiz.com/dsa/data-structure-types
+
+https://www.studytonight.com/data-structures/introduction-to-data-structures
+
+https://courses.cs.vt.edu/~csonline/Algorithms/Lessons/Summary/index.html
+
 ## Freelance
 https://www.upwork.com/
+
+https://www.freelancer.com/
+
+https://www.fiverr.com/
+
+https://khamsat.com/
+
+https://www.khidmitty.com/
+
+https://www.bayt.com/ar/
+
+https://shoghlonline.com/
+
+https://www.tasmeemme.com/
+
+https://souqfann.com/
+
+https://www.maharati.com/ar/
 
 ##  useful tools
 https://anotepad.com/
@@ -625,14 +652,6 @@ https://www.free4talk.com/
 http://elometer.net/ - server off
 
 https://cleanup.pictures/
-
-https://courses.cs.vt.edu/~csonline/Algorithms/Lessons/Summary/index.html
-
-https://www.programiz.com/dsa/data-structure-types
-
-https://www.tutorialspoint.com/
-
-https://www.studytonight.com/data-structures/introduction-to-data-structures
 
 https://theinpaint.com/
 
