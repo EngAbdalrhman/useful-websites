@@ -97,6 +97,14 @@ https://aiartists.org/ai-generated-art-tools
 
 https://carrd.co/
 
+https://www.cssportal.com/
+
+https://cssgrid.io/
+
+https://www.cssmatic.com/
+
+https://enjoycss.com/
+
 ##  Math and CS
 https://github.com/ossu/computer-science#core-programming
 
@@ -508,7 +516,7 @@ slidesai.io
 
 https://quillbot.com/
 
-powerpointspkr.coach
+powerpointspkr.coach - server off
 
 https://www.perplexity.ai/
 
@@ -516,9 +524,9 @@ https://curipod.com/
 
 https://yippity.io/
 
-youtube summary
+[youtube summary](https://www.summarize.tech/)
 
-cavana bkgrnd remover / magic write
+[cavana bkgrnd remover](https://www.canva.com/magic-write/)
 
 [speechify](https://speechify.com/)
 
@@ -580,7 +588,6 @@ https://validator.w3.org/#validate_by_uri
 
 https://www.diffchecker.com/
  
-
 https://nicomedes.assistedcoding.eu/#/dashboard
 
 https://cbom.atozmath.com/CBOM/PertCPM.aspx
@@ -613,17 +620,9 @@ https://moewalls.com
 
 https://www.luvze.com/short-funny-quotes/
 
-https://www.cssportal.com/
-
-https://cssgrid.io/
-
-https://www.cssmatic.com/
-
-https://enjoycss.com/
-
 https://www.free4talk.com/
 
-http://elometer.net/
+http://elometer.net/ - server off
 
 https://cleanup.pictures/
 
