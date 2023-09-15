@@ -106,6 +106,8 @@ https://www.cssmatic.com/
 
 https://enjoycss.com/
 
+https://www.tablesgenerator.com/html_tables
+
 ##  Math and CS
 https://github.com/ossu/computer-science#core-programming
 
@@ -120,6 +122,20 @@ https://matrixcalc.org/
 https://mathsolver.microsoft.com/en
 
 https://www.mathway.com/
+
+## BlockChain
+[solidity ide](https://remix.ethereum.org/)
+
+https://faucets.chain.link/
+
+https://sepoliafaucet.com/
+
+## Wallpaper Desktop themes
+https://www.rainmeter.net/
+
+https://visualskins.com/skin/mond
+
+https://www.rocksdanister.com/lively/
 
 ## UI
 [marvelapp](https://marvelapp.com/)
@@ -672,3 +688,4 @@ https://create.pixelcut.ai/upscaler
 
 https://text-compare.com/
  
+https://weather.codes/
