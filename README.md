@@ -130,6 +130,14 @@ https://faucets.chain.link/
 
 https://sepoliafaucet.com/
 
+https://vrf.chain.link/sepolia/new
+
+https://sepolia.etherscan.io/
+
+https://automation.chain.link/sepolia
+
+https://docs.soliditylang.org/en/v0.8.21/
+
 ## Wallpaper Desktop themes
 https://www.rainmeter.net/
 
