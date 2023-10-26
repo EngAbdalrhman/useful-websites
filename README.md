@@ -128,6 +128,10 @@ https://www.mathway.com/
 
 [demo](https://andersbrownworth.com/blockchain/distributed)
 
+https://app.fleek.xyz/
+
+https://thirdweb.com/dashboard/wallets/connect
+
 https://faucets.chain.link/
 
 https://sepoliafaucet.com/
