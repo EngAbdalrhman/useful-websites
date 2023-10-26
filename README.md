@@ -41,7 +41,7 @@
 
 [exiftool](https://www.pic2map.com/lmbnyu.html)
 
-[exiftool](https://jimpl.com/)
+[exiftool2](https://jimpl.com/)
 
 [by pass short links](https://bypasser.online/)
 
@@ -88,7 +88,6 @@ https://aiartists.org/ai-generated-art-tools
 
 [widgets](https://itsallwidgets.com/)
 
-https://www.appicon.co/
 
 ##  WEB Design
 
@@ -159,6 +158,8 @@ https://www.rocksdanister.com/lively/
 https://www.iconfinder.com/
 
 https://www.canva.com/
+
+https://www.appicon.co/
 
 ## online IDE
 
