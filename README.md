@@ -704,3 +704,26 @@ https://create.pixelcut.ai/upscaler
 https://text-compare.com/
  
 https://weather.codes/
+
+https://livepeer.org/
+
+https://huggingface.co/
+
+https://www.startengine.com/
+
+https://lido.fi/
+
+https://nouns.wtf/
+
+https://www.lighthouse.storage/
+
+https://ibb.co/
+
+https://payhip.com/dashboard?r=1
+
+https://word2md.com/
+
+https://wordtohtml.net/site/index
+
+https://ripes.me/
+
