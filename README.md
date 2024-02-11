@@ -135,6 +135,8 @@ https://faucets.chain.link/
 
 https://sepoliafaucet.com/
 
+https://louper.dev/
+
 https://vrf.chain.link/sepolia/new
 
 https://sepolia.etherscan.io/
