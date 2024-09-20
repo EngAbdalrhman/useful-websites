@@ -775,3 +775,24 @@ https://weather.codes/search/?q=cairo
 
 https://www.rainmeter.net/
 
+https://www.futureme.org/
+
+https://mustqbl.me/message/
+
+https://typst.app/
+
+https://svelte.dev/
+
+https://www.onlinemictest.com/mouse-test/
+
+https://mousetester.com/
+
+https://edaplayground.com/
+
+https://www.jdoodle.com/execute-verilog-online
+
+https://coderpad.io/languages/verilog/
+
+https://www.tutorialspoint.com/compile_verilog_online.php
+
+https://snapsave.app/
