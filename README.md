@@ -33,8 +33,6 @@
 - **[TryHackMe](https://tryhackme.com/)** - Learn cybersecurity through interactive labs.
 - **[Hack The Box](https://www.hackthebox.com/)** - Practice penetration testing and hacking.
 - **[HackerOne](https://www.hackerone.com/)** - Bug bounty platform for security researchers.
-
-### Added Tools:
 - **[Metasploit](https://www.metasploit.com/)** - Penetration testing framework for security professionals.
 - **[OWASP ZAP](https://www.zaproxy.org/)** - Open-source web app security scanner.
 
@@ -43,8 +41,6 @@
 - **[Temp Mail](https://temp-mail.org/)** - Temporary email service for privacy.
 - **[Moakt](https://moakt.com/)** - Another temp email provider.
 - **[Email on Deck](https://www.emailondeck.com/)** - Quick disposable email generator.
-
-### Added Tools:
 - **[Guerrilla Mail](https://www.guerrillamail.com/)** - Temporary email with customizable addresses.
 
 ## Artificial Intelligence (AI)
@@ -86,8 +82,6 @@
 - **[JSON to Dart](https://jasonwatmore.com/json-to-dart)** - Convert JSON to Dart classes.
 - **[Pub.dev Packages](https://pub.dev/)** - Official Flutter package repository.
 - **[It’s All Widgets](https://itsallwidgets.com/)** - Showcase of Flutter widgets and apps.
-
-### Added Tools:
 - **[FlutterFlow](https://flutterflow.io/)** - Visual development platform for Flutter apps.
 - **[DartPad](https://dartpad.dev/)** - Online editor for Dart and Flutter code.
 
@@ -100,8 +94,6 @@
 - **[CSSmatic](https://www.cssmatic.com/)** - CSS gradient, shadow, and border tools.
 - **[EnjoyCSS](https://enjoycss.com/)** - Visual CSS generator with code output.
 - **[HTML Tables Generator](https://www.tablesgenerator.com/)** - Create HTML tables easily.
-
-### Added Tools:
 - **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework.
 - **[Coolors](https://coolors.co/)** - Fast color scheme generator.
 
@@ -113,8 +105,6 @@
 - **[Matrix Calculator](https://www.calculatorsoup.com/calculators/algebra/matrix-calculator.php)** - Perform matrix operations online.
 - **[Microsoft Math Solver](https://math.microsoft.com/)** - Solve math problems with steps.
 - **[Mathway](https://www.mathway.com/)** - Math problem solver for various topics.
-
-### Added Tools:
 - **[Symbolab](https://www.symbolab.com/)** - Step-by-step math solver.
 - **[LeetCode](https://leetcode.com/)** - Practice coding and algorithms.
 
@@ -130,8 +120,6 @@
 - **[Sepolia Etherscan](https://sepolia.etherscan.io/)** - Blockchain explorer for Sepolia testnet.
 - **[Chainlink Automation](https://docs.chain.link/automation/introduction)** - Automate smart contract tasks.
 - **[Solidity Docs](https://docs.soliditylang.org/)** - Official Solidity documentation.
-
-### Added Tools:
 - **[Hardhat](https://hardhat.org/)** - Ethereum development environment.
 - **[Truffle Suite](https://www.trufflesuite.com/)** - Tools for smart contract development.
 
@@ -139,8 +127,6 @@
 - **[Rainmeter](https://www.rainmeter.net/)** - Customize Windows desktops with widgets.
 - **[Mond Skin](https://www.deviantart.com/)** - Rainmeter skin for minimalist desktops.
 - **[Lively Wallpaper](https://rocksdanister.github.io/lively/)** - Animated desktop wallpapers.
-
-### Added Tools:
 - **[Wallpaper Engine](https://wallpaperengine.io/)** - Dynamic wallpapers for Windows.
 
 ## UI/UX Design
@@ -149,8 +135,6 @@
 - **[Iconfinder](https://www.iconfinder.com/)** - Search and download icons.
 - **[Canva](https://www.canva.com/)** - Graphic design tool for all skill levels.
 - **[AppIcon](https://appicon.co/)** - Generate app icons for mobile apps.
-
-### Added Tools:
 - **[Adobe XD](https://www.adobe.com/products/xd.html)** - UI/UX design and prototyping software.
 - **[Sketch](https://www.sketch.com/)** - Design tool for macOS.
 
@@ -163,8 +147,6 @@
 - **[Replit](https://replit.com/)** - Collaborative coding platform.
 - **[Programiz C Compiler](https://www.programiz.com/c-programming/online-compiler/)** - C-specific online compiler.
 - **[Tutorialspoint C Compiler](https://www.tutorialspoint.com/compile_c_online.php)** - Another C compiler online.
-
-### Added Tools:
 - **[CodePen](https://codepen.io/)** - Frontend development playground.
 - **[StackBlitz](https://stackblitz.com/)** - Online IDE for web apps.
 
@@ -172,8 +154,6 @@
 - **[Codeforces](https://codeforces.com/)** - Platform for coding contests and practice.
 - **[CoderHub](https://coderhub.com/)** - Coding challenges in Arabic/English.
 - **[ProgVar](https://progvar.com/)** - Problem sets for programming practice.
-
-### Added Tools:
 - **[HackerRank](https://www.hackerrank.com/)** - Coding challenges and interview prep.
 - **[TopCoder](https://www.topcoder.com/)** - Competitive programming community.
 
@@ -192,8 +172,6 @@
 - **[Programiz DSA](https://www.programiz.com/dsa)** - Data structures and algorithms tutorials.
 - **[StudyTonight DSA](https://www.studytonight.com/data-structures/)** - Intro to data structures.
 - **[CS Online Lessons](https://cs50.harvard.edu/)** - Algorithm summaries from Virginia Tech.
-
-### Added Tools:
 - **[Khan Academy](https://www.khanacademy.org/)** - Free CS and programming courses.
 - **[Udemy](https://www.udemy.com/)** - Paid and free tech courses.
 
@@ -208,8 +186,6 @@
 - **[Tasmeemme](https://tasmeemme.com/)** - Design-focused freelancing.
 - **[Souq Fann](https://souqfann.com/)** - Creative freelance marketplace.
 - **[Maharati](https://maharati.com/)** - Skills and freelance opportunities in Arabic.
-
-### Added Tools:
 - **[Toptal](https://www.toptal.com/)** - High-end freelance talent network.
 - **[PeoplePerHour](https://www.peopleperhour.com/)** - Freelance services platform.
 
@@ -225,17 +201,14 @@
 - **[Slidesgo](https://slidesgo.com/)** - Free presentation templates.
 - **[Slides](https://slides.com/)** - Create presentations online.
 - **[ERDPlus](https://erdplus.com/)** - Database diagram tool.
-
-### Added Tools:
 - **[Miro](https://miro.com/)** - Online collaborative whiteboard.
 - **[Evernote](https://evernote.com/)** - Note-taking and organization.
 
 ## File Transfer
 - **[WeTransfer](https://wetransfer.com/)** - Send large files easily.
 - **[FilePizza](https://file.pizza/)** - Peer-to-peer file sharing in browser.
+- **[FileIO](https://file.io/)** - Peer-to-peer file sharing in browser.
 - **[Snapdrop](https://snapdrop.net/)** - AirDrop-like file sharing across devices on the same network.
-
-### Added Tools:
 - **[TransferNow](https://transfernow.net/)** - Secure file transfer service.
 - **[Dropbox Transfer](https://www.dropbox.com/transfer)** - Share files via Dropbox.
 
@@ -245,8 +218,6 @@
 - **[GH Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)** - Another README generator.
 - **[Readme.so](https://readme.so/)** - Easy README editor.
 - **[Dillinger](https://dillinger.io/)** - Markdown editor with GitHub integration.
-
-### Added Tools:
 - **[GitHub Pages](https://pages.github.com/)** - Host static sites from GitHub repos.
 - **[Gist](https://gist.github.com/)** - Share code snippets via GitHub.
 
@@ -254,7 +225,6 @@
 - **[AngelList](https://angel.co/)** - Job opportunities in startups.
 - **[F6S](https://www.f6s.com/)** - Startup jobs and networking.
 - **[Stack Overflow Jobs](https://stackoverflow.com/jobs)** - Tech job listings
-### Added Tools:
 - **[LinkedIn](https://www.linkedin.com/)** - Professional networking and jobs.
 - **[Glassdoor](https://www.glassdoor.com/)** - Job listings and company reviews.
 
@@ -276,7 +246,6 @@
 - **[MonaBGames Resistance](https://monabgames.com/)** - Another Resistance game variant.
 - **[IOGames](https://iogames.space/)** - Collection of .io games.
 - **[NetGames Avalon](https://netgamesavalon.com/)** - Avalon game online.
-- **[Jackbox Games](https://jackboxgames.com/)** - Party games for groups.
 - **[Poki](https://poki.com/)** - Free online games.
 
 ## Miscellaneous Tools
