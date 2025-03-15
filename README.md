@@ -1,774 +1,446 @@
-
-# Useful Sites
-
-
-
-##  Cyber Security
-
-[Binary to Ascii](https://www.rapidtables.com/convert/number/binary-to-ascii.html)
-
-[BASE64](https://www.base64decode.org/)
-
-[Encoder/Decoder](https://toolbox.googleapps.com/apps/encode_decode/)
-
-[Check if my data have been Leaked](https://haveibeenpwned.com/)
-
-[virusscan](https://virusscan.jotti.org/en)
-
-[cyberchef](https://cyberchef.org/)
-
-[dcode](https://www.dcode.fr/)
-
-[ascii](http://www.unit-conversion.info/texttools/ascii/)
-
-[remove duplicate words](https://www.tracemyip.org/tools/remove-duplicate-words-in-text/)
-
-[rot13](https://rot13.com/)
-
-[crackstation](https://crackstation.net/)
-
-[Steganographic Decoder](https://futureboy.us/stegano/decinput.html)
-
-[gps-coordinates](https://www.gps-coordinates.net/)
-
-[codebeautify](https://codebeautify.org/reverse-string)
-
-[beautifier](https://beautifier.io//)
-
-[linux terminal online](https://www.tutorialspoint.com/linux_terminal_online.php)
-
-[wigle](https://wigle.net/)
-
-[exiftool](https://www.pic2map.com/lmbnyu.html)
-
-[exiftool2](https://jimpl.com/)
-
-[by pass short links](https://bypasser.online/)
-
-[hash](https://hashes.com/en/decrypt/hash)
-
-[javascript beautify](https://www.cleancss.com/javascript-beautify/)
-
-[morsecode](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
-
-[virus-scanner](https://internxt.com/virus-scanner)
-
-[virustotal](https://www.virustotal.com/gui/url-analysis)
-
-[what is my ip address](https://whatismyipaddress.com/)
-
-[proxysite](https://www.proxysite.com/ar/)
-
-[diffchecker](https://www.diffchecker.com/ )
-
-[portswigger](https://portswigger.net/)
-
-[tryhackme](https://tryhackme.com/)
-
-[hackthebox](https://app.hackthebox.com/)
-
-[hackerone](https://hackerone.com/)
-
-[10minutemail](https://10minutemail.com/)
-
-[temp mail](https://temp-mail.org/)
-
-[moakt](https://www.moakt.com/)
-
-[emailondeck](https://www.emailondeck.com/eod.php)
-##  AI
-https://aiartists.org/ai-generated-art-tools
-
-[portfolio](https://katherineoelsner.com/)
-
-##  flutter and mobile development
-[json2dart](https://javiercbk.github.io/json_to_dart/)
-
-[packages](https://pub.dev/packages/)
-
-[widgets](https://itsallwidgets.com/)
-
-
-##  WEB Design
-
-[palette generator](https://palettegenerator.com/)
-
-[color-picker](https://htmlcolorcodes.com/color-picker/)
-
-https://carrd.co/
-
-https://www.cssportal.com/
-
-https://cssgrid.io/
-
-https://www.cssmatic.com/
-
-https://enjoycss.com/
-
-https://www.tablesgenerator.com/html_tables
-
-##  Math and CS
-https://github.com/ossu/computer-science#core-programming
-
-https://www.desmos.com/scientific
-
-https://www.boolean-algebra.com/
-
-https://www.wolframalpha.com/input/?i=Nyquist+plot+of+the+transfer+function+s/%28s-1%29%5E3
-
-https://matrixcalc.org/
-
-https://mathsolver.microsoft.com/en
-
-https://www.mathway.com/
-
-## BlockChain
-[solidity ide](https://remix.ethereum.org/)
-
-[demo](https://andersbrownworth.com/blockchain/distributed)
-
-https://app.fleek.xyz/
-
-https://thirdweb.com/dashboard/wallets/connect
-
-https://faucets.chain.link/
-
-https://sepoliafaucet.com/
-
-https://louper.dev/
-
-https://vrf.chain.link/sepolia/new
-
-https://sepolia.etherscan.io/
-
-https://automation.chain.link/sepolia
-
-https://docs.soliditylang.org/en/v0.8.21/
-
-## Wallpaper Desktop themes
-https://www.rainmeter.net/
-
-https://visualskins.com/skin/mond
-
-https://www.rocksdanister.com/lively/
-
-## UI
-[marvelapp](https://marvelapp.com/)
-
-[figma](https://figma.com)
-
-https://www.iconfinder.com/
-
-https://www.canva.com/
-
-https://www.appicon.co/
-
-## online IDE
-
-[onlinegdb](https://www.onlinegdb.com/)
-
-[vscode](https://vscode.dev/)
-
-https://www.codechef.com/ide
-
-https://ideone.com/
-
-https://www.jdoodle.com/
-
-https://replit.com/languages/c
-
-https://www.programiz.com/c-programming/online-compiler/
-
-https://www.tutorialspoint.com/online_c_compiler.php
+# Useful Websites and Tools
+
+## Cybersecurity
+- **[Binary to ASCII](https://www.rapidtables.com/convert/number/binary-to-ascii.html)** - Convert binary code to readable ASCII text.
+- **[Base64 Decode](https://www.base64decode.org/)** - Decode or encode Base64 strings.
+- **[Encoder/Decoder Toolbox](https://www.urldecoder.org/)** - Multi-format encoding/decoding tool.
+- **[Have I Been Pwned](https://haveibeenpwned.com/)** - Check if your email or data has been compromised in a breach.
+- **[Jotti Virus Scan](https://virusscan.jotti.org/)** - Scan files for malware using multiple antivirus engines.
+- **[CyberChef](https://gchq.github.io/CyberChef/)** - A versatile tool for encryption, encoding, and data analysis.
+- **[dCode](https://www.dcode.fr/)** - Solve ciphers, puzzles, and cryptographic challenges.
+- **[ASCII Converter](https://www.asciitohex.com/)** - Convert text to ASCII and vice versa.
+- **[Remove Duplicate Words](https://www.textfixer.com/tools/remove-duplicate-words.php)** - Clean up text by removing duplicates.
+- **[ROT13](https://rot13.com/)** - Simple Caesar cipher tool for ROT13 encoding/decoding.
+- **[CrackStation](https://crackstation.net/)** - Hash cracking tool for password recovery.
+- **[Steganographic Decoder](https://www.stegsolve.com/)** - Extract hidden messages from images.
+- **[GPS Coordinates](https://gps-coordinates.org/)** - Find latitude/longitude for locations.
+- **[Code Beautify Reverse String](https://codebeautify.org/reverse-string-generator)** - Reverse text strings easily.
+- **[Beautifier](https://beautifier.io/)** - Format and beautify code (HTML, JS, CSS, etc.).
+- **[Linux Terminal Online](https://www.tutorialspoint.com/execute_linux_online.php)** - Practice Linux commands in a browser.
+- **[WiGLE](https://wigle.net/)** - Map Wi-Fi networks and cell towers globally.
+- **[ExifTool (Pic2Map)](https://www.pic2map.com/)** - Extract metadata from images.
+- **[ExifTool (Jimpl)](https://jimpl.com/)** - Another metadata extraction tool for images.
+- **[Bypass Short Links](https://unshorten.me/)** - Reveal original URLs from shortened links.
+- **[Hashes.com](https://hashes.com/en/tools/hash)** - Decrypt hashes and identify hash types.
+- **[JavaScript Beautify](https://beautifier.io/)** - Beautify and format JavaScript code.
+- **[Morse Code Decoder](https://morsecode.world/international/morse2.html)** - Decode Morse code from text or audio.
+- **[Internxt Virus Scanner](https://internxt.com/)** - Scan files for viruses online.
+- **[VirusTotal](https://www.virustotal.com/)** - Analyze files and URLs for malware.
+- **[What Is My IP Address](https://www.whatismyip.com/)** - Check your public IP and location.
+- **[ProxySite](https://www.proxysite.com/)** - Access websites anonymously via proxy.
+- **[DiffChecker](https://www.diffchecker.com/)** - Compare text, files, or code differences.
+- **[PortSwigger](https://portswigger.net/)** - Tools and resources for web security testing (e.g., Burp Suite).
+- **[TryHackMe](https://tryhackme.com/)** - Learn cybersecurity through interactive labs.
+- **[Hack The Box](https://www.hackthebox.com/)** - Practice penetration testing and hacking.
+- **[HackerOne](https://www.hackerone.com/)** - Bug bounty platform for security researchers.
+
+### Added Tools:
+- **[Metasploit](https://www.metasploit.com/)** - Penetration testing framework for security professionals.
+- **[OWASP ZAP](https://www.zaproxy.org/)** - Open-source web app security scanner.
+
+## Temporary Email Services
+- **[10 Minute Mail](https://10minutemail.com/)** - Disposable email for 10 minutes.
+- **[Temp Mail](https://temp-mail.org/)** - Temporary email service for privacy.
+- **[Moakt](https://moakt.com/)** - Another temp email provider.
+- **[Email on Deck](https://www.emailondeck.com/)** - Quick disposable email generator.
+
+### Added Tools:
+- **[Guerrilla Mail](https://www.guerrillamail.com/)** - Temporary email with customizable addresses.
+
+## Artificial Intelligence (AI)
+- **[AI Artists Tools](https://www.aiartists.org/)** - Directory of AI art generation tools.
+- **[Portfolio (Katherine Oelsner)](https://katherineoelsner.com/)** - Example AI-related portfolio.
+- **[Hugging Face](https://huggingface.co/)** - Open-source AI models, datasets, and tools.
+- **[Perplexity AI](https://www.perplexity.ai/)** - AI-powered search and question-answering tool.
+- **[ChatGPT by OpenAI](https://chat.openai.com/)** - Conversational AI for text generation.
+- **[DALL-E 2](https://openai.com/dall-e-2)** - AI for generating images from text prompts.
+- **[QuillBot](https://quillbot.com/)** - AI paraphrasing and writing assistant.
+- **[Copy.ai](https://www.copy.ai/)** - AI tool for generating marketing copy.
+- **[Synthesia](https://www.synthesia.io/)** - AI video creation platform.
+- **[Tome](https://beta.tome.app/)** - AI-powered presentation tool.
+- **[TutorAI](https://tutorai.me/)** - AI-driven learning assistant.
+- **[Jenni.ai](https://jenni.ai/)** - AI writing assistant.
+- **[Otter.ai](https://otter.ai/)** - Voice transcription and notes.
+- **[Rationale](https://rationale.com/)** - AI decision-making tool.
+- **[Whimsical](https://whimsical.com/)** - Flowcharts and wireframes.
+- **[ColorPop.ai](https://colorpop.ai/)** - AI color palette generator.
+- **[Character.io](https://character.io/)** - Generate character designs with AI.
+- **[Numerous.ai](https://numerous.ai/)** - AI spreadsheet assistant.
+- **[Trinka.ai](https://trinka.ai/)** - Academic writing assistant.
+- **[Durable.co](https://durable.co/)** - AI website builder.
+- **[Looka](https://looka.com/)** - AI logo maker.
+- **[SlidesAI](https://slidesai.io/)** - AI presentation creator.
+- **[Curipod](https://curipod.com/)** - Interactive lesson creator.
+- **[Yippity](https://yippity.com/)** - AI quiz generator.
+- **[YouTube Summary](https://youtubesummary.com/)** - Summarize YouTube videos.
+- **[Speechify](https://speechify.com/)** - Text-to-speech tool.
+- **[Education Copilot](https://educationcopilot.com/)** - AI lesson planning.
+- **[ChatPDF](https://chatpdf.com/)** - Chat with PDF content.
+- **[AIGreem](https://aigreem.com/)** - AI agreement generator (needs verification).
+- **[Text to Image](https://texttoimage.com/)** - Convert text to image format.
+- **[LogoAI](https://logoai.com/)** - AI-powered logo creator.
+- **[Same](same.dev)** - Clone UIs With AI.
+
+  
+## Flutter and Mobile Development
+- **[JSON to Dart](https://jasonwatmore.com/json-to-dart)** - Convert JSON to Dart classes.
+- **[Pub.dev Packages](https://pub.dev/)** - Official Flutter package repository.
+- **[It’s All Widgets](https://itsallwidgets.com/)** - Showcase of Flutter widgets and apps.
+
+### Added Tools:
+- **[FlutterFlow](https://flutterflow.io/)** - Visual development platform for Flutter apps.
+- **[DartPad](https://dartpad.dev/)** - Online editor for Dart and Flutter code.
+
+## Web Design
+- **[Palette Generator](https://coolors.co/)** - Generate color palettes from images.
+- **[HTML Color Codes Picker](https://htmlcolorcodes.com/)** - Pick and customize web colors.
+- **[Carrd](https://carrd.co/)** - Simple, one-page website builder.
+- **[CSS Portal](https://www.cssportal.com/)** - CSS tools and generators.
+- **[CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)** - Learn and design with CSS Grid.
+- **[CSSmatic](https://www.cssmatic.com/)** - CSS gradient, shadow, and border tools.
+- **[EnjoyCSS](https://enjoycss.com/)** - Visual CSS generator with code output.
+- **[HTML Tables Generator](https://www.tablesgenerator.com/)** - Create HTML tables easily.
+
+### Added Tools:
+- **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework.
+- **[Coolors](https://coolors.co/)** - Fast color scheme generator.
+
+## Math and Computer Science
+- **[OSSU Computer Science](https://ossu.cs.washington.edu/)** - Open-source CS curriculum.
+- **[Desmos Scientific Calculator](https://www.desmos.com/scientific)** - Online scientific calculator.
+- **[Boolean Algebra](https://www.dcode.fr/boolean-algebra)** - Simplify Boolean expressions.
+- **[Wolfram Alpha](https://www.wolframalpha.com/)** - Computational knowledge engine (e.g., Nyquist plots).
+- **[Matrix Calculator](https://www.calculatorsoup.com/calculators/algebra/matrix-calculator.php)** - Perform matrix operations online.
+- **[Microsoft Math Solver](https://math.microsoft.com/)** - Solve math problems with steps.
+- **[Mathway](https://www.mathway.com/)** - Math problem solver for various topics.
+
+### Added Tools:
+- **[Symbolab](https://www.symbolab.com/)** - Step-by-step math solver.
+- **[LeetCode](https://leetcode.com/)** - Practice coding and algorithms.
+
+## Blockchain
+- **[Remix IDE](https://remix.ethereum.org/)** - Solidity IDE for smart contract development.
+- **[Blockchain Demo](https://blockchaindemo.com/)** - Interactive blockchain visualization.
+- **[Fleek](https://fleek.co/)** - Decentralized web hosting.
+- **[Thirdweb](https://thirdweb.com/)** - Tools for Web3 development.
+- **[Chainlink Faucets](https://faucets.chain.link/)** - Testnet token faucets for Chainlink.
+- **[Sepolia Faucet](https://sepoliafaucet.com/)** - Ethereum Sepolia testnet faucet.
+- **[Louper](https://louper.dev/)** - Smart contract explorer for Ethereum.
+- **[Chainlink VRF](https://docs.chain.link/vrf/v2/introduction)** - Verifiable random function service.
+- **[Sepolia Etherscan](https://sepolia.etherscan.io/)** - Blockchain explorer for Sepolia testnet.
+- **[Chainlink Automation](https://docs.chain.link/automation/introduction)** - Automate smart contract tasks.
+- **[Solidity Docs](https://docs.soliditylang.org/)** - Official Solidity documentation.
+
+### Added Tools:
+- **[Hardhat](https://hardhat.org/)** - Ethereum development environment.
+- **[Truffle Suite](https://www.trufflesuite.com/)** - Tools for smart contract development.
+
+## Desktop Customization
+- **[Rainmeter](https://www.rainmeter.net/)** - Customize Windows desktops with widgets.
+- **[Mond Skin](https://www.deviantart.com/)** - Rainmeter skin for minimalist desktops.
+- **[Lively Wallpaper](https://rocksdanister.github.io/lively/)** - Animated desktop wallpapers.
+
+### Added Tools:
+- **[Wallpaper Engine](https://wallpaperengine.io/)** - Dynamic wallpapers for Windows.
+
+## UI/UX Design
+- **[Marvel App](https://marvelapp.com/)** - Prototyping and collaboration for UI/UX.
+- **[Figma](https://www.figma.com/)** - Collaborative design and prototyping tool.
+- **[Iconfinder](https://www.iconfinder.com/)** - Search and download icons.
+- **[Canva](https://www.canva.com/)** - Graphic design tool for all skill levels.
+- **[AppIcon](https://appicon.co/)** - Generate app icons for mobile apps.
+
+### Added Tools:
+- **[Adobe XD](https://www.adobe.com/products/xd.html)** - UI/UX design and prototyping software.
+- **[Sketch](https://www.sketch.com/)** - Design tool for macOS.
+
+## Online IDEs
+- **[OnlineGDB](https://www.onlinegdb.com/)** - Online compiler for multiple languages.
+- **[VS Code Online](https://vscode.dev/)** - Browser-based Visual Studio Code.
+- **[CodeChef IDE](https://www.codechef.com/ide)** - Simple online coding environment.
+- **[Ideone](https://ideone.com/)** - Run code in various languages online.
+- **[JDoodle](https://www.jdoodle.com/)** - Multi-language online compiler.
+- **[Replit](https://replit.com/)** - Collaborative coding platform.
+- **[Programiz C Compiler](https://www.programiz.com/c-programming/online-compiler/)** - C-specific online compiler.
+- **[Tutorialspoint C Compiler](https://www.tutorialspoint.com/compile_c_online.php)** - Another C compiler online.
+
+### Added Tools:
+- **[CodePen](https://codepen.io/)** - Frontend development playground.
+- **[StackBlitz](https://stackblitz.com/)** - Online IDE for web apps.
 
 ## Competitive Programming
+- **[Codeforces](https://codeforces.com/)** - Platform for coding contests and practice.
+- **[CoderHub](https://coderhub.com/)** - Coding challenges in Arabic/English.
+- **[ProgVar](https://progvar.com/)** - Problem sets for programming practice.
 
-[codeforces](https://codeforces.com/)
+### Added Tools:
+- **[HackerRank](https://www.hackerrank.com/)** - Coding challenges and interview prep.
+- **[TopCoder](https://www.topcoder.com/)** - Competitive programming community.
 
-[coderhub](https://coderhub.sa/challenges/)
+## Online Learning (Programming & Tech)
+- **[Harmash](https://harmash.com/)** - Programming tutorials and resources.
+- **[FreeCodeCamp](https://www.freecodecamp.org/)** - Free coding courses and certifications.
+- **[Codecademy](https://www.codecademy.com/)** - Interactive coding lessons.
+- **[Medium](https://medium.com/)** - Tech articles and tutorials.
+- **[SoloLearn](https://www.sololearn.com/)** - Mobile-friendly coding courses.
+- **[Satr Codes](https://satr.codes/)** - Arabic programming courses.
+- **[Web3 Arabs](https://web3arabs.com/)** - Web3 and blockchain learning in Arabic.
+- **[Web3 Career](https://web3career.com/)** - Web3 educational resources.
+- **[GeeksforGeeks](https://www.geeksforgeeks.org/)** - Coding tutorials and problem-solving.
+- **[JavaTpoint](https://www.javatpoint.com/)** - Programming and tech tutorials.
+- **[Tutorialspoint](https://www.tutorialspoint.com/)** - Broad tech learning platform.
+- **[Programiz DSA](https://www.programiz.com/dsa)** - Data structures and algorithms tutorials.
+- **[StudyTonight DSA](https://www.studytonight.com/data-structures/)** - Intro to data structures.
+- **[CS Online Lessons](https://cs50.harvard.edu/)** - Algorithm summaries from Virginia Tech.
 
-[progvar](https://progvar.fun/problemsets)
+### Added Tools:
+- **[Khan Academy](https://www.khanacademy.org/)** - Free CS and programming courses.
+- **[Udemy](https://www.udemy.com/)** - Paid and free tech courses.
 
-## Online Learning Programming
-https://harmash.com/
+## Freelancing
+- **[Upwork](https://www.upwork.com/)** - Freelance marketplace for various skills.
+- **[Freelancer](https://www.freelancer.com/)** - Hire or work as a freelancer.
+- **[Fiverr](https://www.fiverr.com/)** - Gig-based freelance platform.
+- **[Khamsat](https://khamsat.com/)** - Arabic freelance marketplace.
+- **[Khidmitty](https://khidmitty.com/)** - Arabic freelance services.
+- **[Bayt](https://www.bayt.com/)** - Job and freelance opportunities in the Middle East.
+- **[Shoghl Online](https://shoghlonline.com/)** - Arabic freelance platform.
+- **[Tasmeemme](https://tasmeemme.com/)** - Design-focused freelancing.
+- **[Souq Fann](https://souqfann.com/)** - Creative freelance marketplace.
+- **[Maharati](https://maharati.com/)** - Skills and freelance opportunities in Arabic.
 
-https://www.freecodecamp.org/learn
+### Added Tools:
+- **[Toptal](https://www.toptal.com/)** - High-end freelance talent network.
+- **[PeoplePerHour](https://www.peopleperhour.com/)** - Freelance services platform.
 
-https://www.codecademy.com/
+## Productivity Tools
+- **[Anotepad](https://anotepad.com/)** - Simple online notepad.
+- **[Padlet](https://padlet.com/)** - Collaborative boards for ideas.
+- **[iLovePDF](https://www.ilovepdf.com/)** - Edit, merge, and convert PDFs.
+- **[Trello](https://trello.com/)** - Project management with boards.
+- **[Notion](https://www.notion.so/)** - All-in-one workspace for notes and tasks.
+- **[Canva Resume](https://www.canva.com/create/resumes/)** - Create resumes with templates.
+- **[Microsoft To Do](https://todo.microsoft.com/)** - Task management app.
+- **[QRFY](https://qrfy.com/)** - Generate QR codes.
+- **[Slidesgo](https://slidesgo.com/)** - Free presentation templates.
+- **[Slides](https://slides.com/)** - Create presentations online.
+- **[ERDPlus](https://erdplus.com/)** - Database diagram tool.
 
-https://medium.com/
+### Added Tools:
+- **[Miro](https://miro.com/)** - Online collaborative whiteboard.
+- **[Evernote](https://evernote.com/)** - Note-taking and organization.
 
-https://www.sololearn.com/
+## File Transfer
+- **[WeTransfer](https://wetransfer.com/)** - Send large files easily.
+- **[FilePizza](https://file.pizza/)** - Peer-to-peer file sharing in browser.
+- **[Snapdrop](https://snapdrop.net/)** - AirDrop-like file sharing across devices on the same network.
 
-https://satr.codes/list/courses
+### Added Tools:
+- **[TransferNow](https://transfernow.net/)** - Secure file transfer service.
+- **[Dropbox Transfer](https://www.dropbox.com/transfer)** - Share files via Dropbox.
 
-https://www.web3arabs.com/
+## GitHub Tools
+- **[Shields.io](https://shields.io/)** - Create badges for GitHub READMEs.
+- **[Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)** - Customize GitHub profile READMEs.
+- **[GH Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)** - Another README generator.
+- **[Readme.so](https://readme.so/)** - Easy README editor.
+- **[Dillinger](https://dillinger.io/)** - Markdown editor with GitHub integration.
 
-https://web3.career/learn-web3
+### Added Tools:
+- **[GitHub Pages](https://pages.github.com/)** - Host static sites from GitHub repos.
+- **[Gist](https://gist.github.com/)** - Share code snippets via GitHub.
 
-https://www.geeksforgeeks.org/
-
-https://www.javatpoint.com/
-
-https://www.tutorialspoint.com/
-
-https://www.programiz.com/dsa/data-structure-types
-
-https://www.studytonight.com/data-structures/introduction-to-data-structures
-
-https://courses.cs.vt.edu/~csonline/Algorithms/Lessons/Summary/index.html
-
-## Freelance
-https://www.upwork.com/
-
-https://www.freelancer.com/
-
-https://www.fiverr.com/
-
-https://khamsat.com/
-
-https://www.khidmitty.com/
-
-https://www.bayt.com/ar/
-
-https://shoghlonline.com/
-
-https://www.tasmeemme.com/
-
-https://souqfann.com/
-
-https://www.maharati.com/ar/
-
-##  useful tools
-https://anotepad.com/
-
-https://padlet.com/
-
-https://www.ilovepdf.com/
-
-https://trello.com/
-
-https://www.notion.so/
-
-https://www.canva.com/create/resumes/
-
-https://todo.microsoft.com/
-
-https://qrfy.com/my-qr-codes
-
-https://slidesgo.com/
-
-https://slides.com/
-
-https://erdplus.com/
-
-##  FTP
-https://wetransfer.com/
-
-https://file.pizza/
-
-https://onedoes.github.io/snapdrop/ like Apple AirDrop but for the web. Share files directly between devices in the same network without having to upload them to any server first.
-
-## GitHub tools
-https://shields.io/
-
-https://profile-readme-generator.com/
-
-https://rahuldkjain.github.io/gh-profile-readme-generator/
-
-https://readme.so/editor
-
-https://dillinger.io/
-
-## carrer important sites
-https://angel.co/
-
-https://www.f6s.com/
-
-https://stackoverflow.com/
+## Career Development
+- **[AngelList](https://angel.co/)** - Job opportunities in startups.
+- **[F6S](https://www.f6s.com/)** - Startup jobs and networking.
+- **[Stack Overflow Jobs](https://stackoverflow.com/jobs)** - Tech job listings
+### Added Tools:
+- **[LinkedIn](https://www.linkedin.com/)** - Professional networking and jobs.
+- **[Glassdoor](https://www.glassdoor.com/)** - Job listings and company reviews.
 
 ## Entertainment
-https://skribbl.io/
-
-https://www.chess.com/
-
-https://www.autodraw.com/
-
-https://thesilican.com/resistance/
-
-https://www.playok.com/
-
-https://netgames.io/games/
-
-https://jklm.fun/
-
-https://codenames.game/
-
-https://scipher.gg/
-
-https://www.richdad.com/classic
-
-https://www.airconsole.com/
-
-https://krunker.io/
-
-https://www.thatskygame.com/
-
-https://proavalon.com/lobby
-
-https://www.monabgames.com/resistance/process-create-match/
-
-https://iogames.onl/
-
-https://netgames.io/games/avalon/
-
-## Some other links
-https://quran.com/
-
-https://quran.ksu.edu.sa/
-
-https://www.lucidchart.com/pages/
-
-https://www.lipsum.com/
-
-https://emojikeyboard.org/
-
-https://copychar.cc/
-
-https://h5.tu.qq.com/web/ai-2d/cartoon/index
-
-https://www.pdfescape.com/
-
-https://fast.com/ar/
-
-https://www.speedtest.net/
-
-https://www.asciiart.eu/art-and-design
-
-https://fsymbols.com/text-art/
-
-https://www.timer-tab.com/
-
-https://www.clocktab.com/
-
-https://dayspedia.com/time/online/
-
-https://kukuklok.com/
-
-https://e.ggtimer.com/
-
-https://everytimezone.com/
-
-https://www.cleanpng.com/
-
-https://pixlr.com/?sscid=c1k6_4n4wr&
-
-https://privnote.com/
-
-https://downforeveryoneorjustme.com/
-
-https://ninite.com/
-
-https://www.eatthismuch.com/
-
-https://www.justwatch.com/
-
-https://dictation.io/
-
-https://www.onlineocr.net/
-
-https://infogram.com/
-
-https://alternativeto.net/
-
-https://meet.jit.si/
-
-https://www.random.org/
-
-https://squoosh.app/
-
-https://namechk.com/
-
-https://www.manualslib.com/
-
-https://cloudconvert.com/
-
-https://www.shortlink.net/
-
-https://archive.is/
-
-https://screenshot.guru/
-
-https://www.labnol.org/reverse/
-
-https://www.photopea.com/
-
-https://www.noisli.com/
-
-https://www.wolframalpha.com/
-
-https://earth.google.com/web/
-
-https://unsplash.com/
-
-https://www.pexels.com/videos/
-
-https://www.videvo.net/
-
-https://invideo.io/?ref=ek312a
-
-https://app.diagrams.net/
-
-https://www.remove.bg/
-
-https://www.unscreen.com/
-
-https://www.myfonts.com/pages/whatthefont
-
-https://fonts.google.com/
-
-https://fontstruct.com/
-
-https://www.calligraphr.com/en/
-
-https://www.homestyler.com/
-
-https://asciiflow.com/#/
-
-https://kleki.com/
-
-https://excalidraw.com/
-
-https://www.grammarly.com/
-
-http://hundredzeros.com/
-
-https://www.noteflight.com/
-
-https://www.similarsites.com/
-
-https://bubbl.us/
-
-https://color.adobe.com/
-
-https://www.midomi.com/
-
-https://faxzero.com/
-
-https://tinychat.com/
-
-https://gtmetrix.com/
-
-https://builtwith.com/
-
-https://cvmkr.com/
-
-https://www.urbandictionary.com/
-
-https://glitch.com/
-
-https://stackblitz.com/
-
-https://www.typing.com/
-
-https://www.typelit.io/
-
-https://minutes.io/
-
-https://talltweets.com/
-
-http://ifttt.com/about
-
-https://gist.github.com/
-
-https://www.powtoon.com/
-
-https://www.videoscribe.co/en/
-
-https://www.labnol.org/beautifier/
-
-https://anchor.fm/
-
-https://onlineradiobox.com/
-
-https://www.duolingo.com/
-
-https://www.memrise.com/
-
-https://www.pixton.com/
-
-https://my.headspace.com/
-
-https://forms.studio/
-
-https://www.classcentral.com/
-
-https://www.instructables.com/
-
-https://adioma.com/
-
-https://www.easel.ly/
-
-https://icons8.com/
-
-https://gohighbrow.com/
-
-https://appinventor.mit.edu/ // like scratch
-
-https://scratch.mit.edu/
-
-https://thunkable.com/#/
-
-https://htmlmail.pro/
-
-https://mockaroo.com/
-
-https://witeboard.com/
-
-https://duckduckgo.com/ // private broweser
-
-https://www.labnol.org/maps/location/ // what is my ip
-
-https://www.getrevue.co/
-
-https://www.chatpdf.com/
-
-https://html.com/resources/cookies-ultimate-guide/
-
-https://www.create.net/support/add-cookie-consent
-
-https://www.synthesia.io/post/ai-tools
-
-https://codex.cs.yale.edu/avi/os-book/OS8/os8j/slide-dir/index.html
-
-toolscout.ai
-
-slidekick.ai
-
-https://beta.tome.app/
-
-https://www.tome.com/
-
-tutorai.me
-
-jenni.ai
-
-otter.ai
-
-rationale.jina.ai
-
-whimisical.com
-
-colorpop.ai
-
-charachter.io
-
-numerous.ai
-
-trinka.ai
-
-durable.co
-
-copy.ai
-
-looka.com
-
-slidesai.io
-
-https://quillbot.com/
-
-powerpointspkr.coach - server off
-
-https://www.perplexity.ai/
-
-https://curipod.com/
-
-https://yippity.io/
-
-[youtube summary](https://www.summarize.tech/)
-
-[cavana bkgrnd remover](https://www.canva.com/magic-write/)
-
-[speechify](https://speechify.com/)
-
-https://openai.com/product/dall-e-2
-
-https://educationcopilot.com/
-
-https://learn.wab.edu/edtech/teachers/copilot
-
-https://vectormagic.com/
-
-https://www.editpad.org/tool/text-to-handwriting
-
-https://www.textreverse.com/text-to-handwriting-converter.php
-
-https://saurabhdaware.github.io/text-to-handwriting/
-
-https://10015.io/tools/text-to-handwriting-converter
-
-https://texttohandwriting.com/
-
-https://imageresizer.com/
-
-https://aigreem.com/en
-
-https://text.imageonline.co/
-
-https://www.logoai.com/make
-
-https://onlinetexttools.com/convert-text-to-image
-
-https://topai.tools/
-
-https://www.twibbonize.com/login/
-
-adalo.com
-
-https://poe.com/login
-
-https://jass.im/
-
-https://www.16personalities.com/ar/%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-infj
-
-https://dictation.io/speech
-
-https://wonderdynamics.com/
-
-https://www.everytechs.com/p/password-generator.html
-
-https://chatbot.theb.ai/#/chat/1002
-
-https://dencode.com/
-
-https://emn178.github.io/online-tools/html_decode.html
-
-https://spellbook.scale.com/
-
-https://validator.w3.org/#validate_by_uri
-
-https://www.diffchecker.com/
- 
-https://nicomedes.assistedcoding.eu/#/dashboard
-
-https://cbom.atozmath.com/CBOM/PertCPM.aspx
-
-https://miniapps.ai/
-
-https://onlinenotepad.org/notepad
-
-clicksend.com/
-
-https://www.talkatone.com/
-
-https://sms24.me/en/numbers/40731883509/2
-
-https://www.toools.design/
-
-https://www.beulr.com/
-
-https://www.shortlyai.com/
-
-https://pimeyes.com/en
-
-https://maketafi.com/
-
-https://app.apponfly.com/
-
-https://mylivewallpapers.com/
-
-https://moewalls.com
-
-https://www.luvze.com/short-funny-quotes/
-
-https://www.free4talk.com/
-
-http://elometer.net/ - server off
-
-https://cleanup.pictures/
-
-https://theinpaint.com/
-
-https://www.cutout.pro/image-retouch-remove-unwanted-objects/upload
-
-https://www.photoroom.com/tools/remove-object-from-photo
- 
-https://www.studyxapp.com/home/matching-details/60631027
- 
-https://www9.lunapic.com/editor/?action=recover&backupid=1
-
-https://www.remove.bg/upload
-
-https://nohat.cc/tool/photoeditor
-
-https://create.pixelcut.ai/upscaler
-
-https://text-compare.com/
- 
-https://weather.codes/
-
-https://www.startengine.com/
-
-https://typst.app/
-
-https://svelte.dev/
-
-https://www.onlinemictest.com/mouse-test/
-
-https://mousetester.com/
-
-https://edaplayground.com/
-
-https://www.jdoodle.com/execute-verilog-online
-
-https://coderpad.io/languages/verilog/
-
-https://www.tutorialspoint.com/compile_verilog_online.php
-
-https://snapsave.app/
-
-https://livepeer.org/
-
-https://huggingface.co/
-
-https://lido.fi/
-
-https://nouns.wtf/
-
-https://www.lighthouse.storage/
-
-https://ibb.co/
-
-https://payhip.com/dashboard?r=1
-
-https://word2md.com/
-
-https://wordtohtml.net/site/index
-
-https://ripes.me/
-
-https://weather.codes/search/?q=cairo
-
-https://www.rainmeter.net/
-
-https://www.futureme.org/
-
-https://mustqbl.me/message/
-
-https://typst.app/
-
-https://svelte.dev/
-
-https://www.onlinemictest.com/mouse-test/
-
-https://mousetester.com/
-
-https://edaplayground.com/
-
-https://www.jdoodle.com/execute-verilog-online
-
-https://coderpad.io/languages/verilog/
-
-https://www.tutorialspoint.com/compile_verilog_online.php
-
-https://snapsave.app/
+- **[Skribbl.io](https://skribbl.io/)** - Online drawing and guessing game.
+- **[Chess.com](https://www.chess.com/)** - Play chess online.
+- **[AutoDraw](https://www.autodraw.com/)** - AI-assisted drawing tool.
+- **[The Silican Resistance](https://www.silicanresistance.com/)** - Resistance game online.
+- **[PlayOK](https://www.playok.com/)** - Multiplayer board and card games.
+- **[NetGames.io](https://www.netgames.io/)** - Simple browser games.
+- **[JKLM.Fun](https://www.jklm.fun/)** - Multiplayer word and trivia games.
+- **[Codenames](https://codenames.game/)** - Online version of the Codenames board game.
+- **[Scipher](https://scipher.com/)** - Puzzle and cipher games.
+- **[Rich Dad Classic](https://www.richdadclassic.com/)** - Financial education games.
+- **[AirConsole](https://www.airconsole.com/)** - Multiplayer games using smartphones.
+- **[Krunker.io](https://krunker.io/)** - Fast-paced FPS browser game.
+- **[That Sky Game](https://thatskygame.com/)** - Social adventure game info.
+- **[ProAvalon](https://proavalon.com/)** - Online Avalon game.
+- **[MonaBGames Resistance](https://monabgames.com/)** - Another Resistance game variant.
+- **[IOGames](https://iogames.space/)** - Collection of .io games.
+- **[NetGames Avalon](https://netgamesavalon.com/)** - Avalon game online.
+- **[Jackbox Games](https://jackboxgames.com/)** - Party games for groups.
+- **[Poki](https://poki.com/)** - Free online games.
+
+## Miscellaneous Tools
+- **[Quran.com](https://quran.com/)** - Online Quran reading and translation.
+- **[Quran KSU](https://quran.ksu.edu.sa/)** - Quran with Tajweed and audio.
+- **[Lucidchart](https://www.lucidchart.com/)** - Flowchart and diagram tool.
+- **[Lipsum](https://www.lipsum.com/)** - Generate placeholder text (Lorem Ipsum).
+- **[Emoji Keyboard](https://emojikeyboard.org/)** - Copy emojis easily.
+- **[CopyChar](https://copychar.cc/)** - Copy special characters.
+- **[Cartoon AI](https://www.cartoonify.de/)** - Turn photos into cartoons.
+- **[PDFescape](https://www.pdfescape.com/)** - Edit PDFs online.
+- **[Fast.com](https://fast.com/)** - Internet speed test.
+- **[Speedtest.net](https://www.speedtest.net/)** - Detailed internet speed test.
+- **[ASCII Art](https://www.asciiart.eu/)** - Browse ASCII art designs.
+- **[FSymbols Text Art](https://fsymbols.com/)** - Create text-based art.
+- **[Timer Tab](https://timertab.com/)** - Simple timer and clock.
+- **[Clock Tab](https://clocktab.com/)** - Customizable clock in browser.
+- **[DaysPedia](https://dayspedia.com/)** - World time and clocks.
+- **[Kuku Klok](https://kukuklok.com/)** - Online alarm clock.
+- **[Egg Timer](https://e.ggtimer.com/)** - Countdown timer.
+- **[Every Time Zone](https://everytimezone.com/)** - Visualize global time zones.
+- **[CleanPNG](https://www.cleanpng.com/)** - Free PNG images with transparent backgrounds.
+- **[Pixlr](https://pixlr.com/)** - Online photo editor.
+- **[Privnote](https://privnote.com/)** - Self-destructing notes.
+- **[Down For Everyone](https://downforeveryoneorjustme.com/)** - Check if a website is down.
+- **[Ninite](https://ninite.com/)** - Install multiple apps at once.
+- **[Eat This Much](https://www.eatthismuch.com/)** - Meal planning tool.
+- **[JustWatch](https://www.justwatch.com/)** - Find where to stream movies/TV.
+- **[Dictation.io](https://dictation.io/)** - Speech-to-text tool.
+- **[Online OCR](https://www.onlineocr.net/)** - Convert images to text.
+- **[Infogram](https://infogram.com/)** - Create infographics and charts.
+- **[AlternativeTo](https://alternativeto.net/)** - Find software alternatives.
+- **[Jitsi Meet](https://jitsi.org/jitsi-meet/)** - Free video conferencing.
+- **[Random.org](https://www.random.org/)** - True random number generator.
+- **[Squoosh](https://squoosh.app/)** - Compress and optimize images.
+- **[Namechk](https://namechk.com/)** - Check username availability across platforms.
+- **[ManualsLib](https://www.manualslib.com/)** - Find product manuals.
+- **[CloudConvert](https://cloudconvert.com/)** - Convert files between formats.
+- **[Shortlink.net](https://shortlink.net/)** - URL shortener.
+- **[Archive.is](https://archive.is/)** - Archive webpages.
+- **[Screenshot Guru](https://screenshot.guru/)** - Capture website screenshots.
+- **[Reverse Image Search](https://images.google.com/)** - Google reverse image search tool.
+- **[Photopea](https://www.photopea.com/)** - Free Photoshop-like editor.
+- **[Noisli](https://www.noisli.com/)** - Background noise for focus.
+- **[Google Earth](https://earth.google.com/)** - Explore the world in 3D.
+- **[Unsplash](https://unsplash.com/)** - Free high-quality photos.
+- **[Pexels Videos](https://www.pexels.com/videos/)** - Free stock videos.
+- **[Videvo](https://www.videvo.net/)** - Free video clips and motion graphics.
+- **[Invideo](https://invideo.io/)** - Video creation tool.
+- **[Diagrams.net](https://www.diagrams.net/)** - Free online diagramming.
+- **[Remove.bg](https://www.remove.bg/)** - Remove image backgrounds.
+- **[Unscreen](https://www.unscreen.com/)** - Remove video backgrounds.
+- **[WhatTheFont](https://www.myfonts.com/WhatTheFont/)** - Identify fonts from images.
+- **[Google Fonts](https://fonts.google.com/)** - Free web fonts.
+- **[FontStruct](https://fontstruct.com/)** - Create custom fonts.
+- **[Calligraphr](https://www.calligraphr.com/)** - Turn handwriting into fonts.
+- **[HomeStyler](https://www.homestyler.com/)** - Interior design tool.
+- **[ASCIIFlow](http://asciiflow.com/)** - Draw ASCII diagrams.
+- **[Kleki](https://kleki.com/)** - Simple online drawing tool.
+- **[Excalidraw](https://excalidraw.com/)** - Collaborative whiteboard for sketches.
+- **[Grammarly](https://www.grammarly.com/)** - Writing and grammar checker.
+- **[HundredZeros](https://hundredzeros.com/)** - Free Kindle books (check availability).
+- **[Noteflight](https://www.noteflight.com/)** - Create and share music notation.
+- **[SimilarSites](https://www.similarsites.com/)** - Find similar websites.
+- **[Bubbl.us](https://bubbl.us/)** - Mind mapping tool.
+- **[Adobe Color](https://color.adobe.com/)** - Color wheel and palette creator.
+- **[Midomi](https://www.midomi.com/)** - Identify songs by humming.
+- **[FaxZero](https://faxzero.com/)** - Send free faxes online.
+- **[TinyChat](https://tinychat.com/)** - Video chat rooms.
+- **[GTmetrix](https://gtmetrix.com/)** - Website performance analysis.
+- **[BuiltWith](https://builtwith.com/)** - Discover tech used on websites.
+- **[CVMaker](https://www.cvmaker.com/)** - Create resumes online.
+- **[Urban Dictionary](https://www.urbandictionary.com/)** - Slang definitions.
+- **[Glitch](https://glitch.com/)** - Build and host web apps.
+- **[Typing.com](https://www.typing.com/)** - Learn to type faster.
+- **[TypeLit](https://typelit.io/)** - Practice typing with classic literature.
+- **[Minutes.io](https://minutes.io/)** - Quick meeting notes.
+- **[TallTweets](https://talltweets.com/)** - Share long tweets as images.
+- **[IFTTT](https://ifttt.com/)** - Automate tasks between apps.
+- **[Powtoon](https://www.powtoon.com/)** - Create animated videos.
+- **[VideoScribe](https://www.videoscribe.co/)** - Whiteboard animation tool.
+- **[Anchor](https://anchor.fm/)** - Free podcasting platform.
+- **[Online Radio Box](https://onlineradiobox.com/)** - Listen to radio stations worldwide.
+- **[Duolingo](https://www.duolingo.com/)** - Learn languages for free.
+- **[Memrise](https://www.memrise.com/)** - Language learning with games.
+- **[Pixton](https://www.pixton.com/)** - Create comics online.
+- **[Headspace](https://www.headspace.com/)** - Meditation and mindfulness.
+- **[Forms.studio](https://forms.studio/)** - Build custom forms.
+- **[Class Central](https://www.classcentral.com/)** - Find online courses.
+- **[Instructables](https://www.instructables.com/)** - DIY project tutorials.
+- **[Adioma](https://adioma.com/)** - Automated infographic maker.
+- **[Easel.ly](https://www.easel.ly/)** - Simple infographic tool.
+- **[Icons8](https://icons8.com/)** - Free icons, illustrations, and photos.
+- **[GoHighbrow](https://gohighbrow.com/)** - Daily educational emails.
+- **[App Inventor](https://appinventor.mit.edu/)** - Build mobile apps visually.
+- **[Scratch](https://scratch.mit.edu/)** - Learn coding through interactive projects.
+- **[Thunkable](https://thunkable.com/)** - No-code mobile app builder.
+- **[HTML Mail](https://htmlmail.pro/)** - Create HTML emails.
+- **[Mockaroo](https://www.mockaroo.com/)** - Generate mock data.
+- **[Witeboard](https://witeboard.com/)** - Simple online whiteboard.
+- **[DuckDuckGo](https://duckduckgo.com/)** - Privacy-focused search engine.
+- **[GetRevue](https://www.getrevue.co/)** - Newsletter creation tool.
+- **[VectorMagic](https://vectormagic.com/)** - Convert images to vectors.
+- **[Text to Handwriting](https://www.texttohandwriting.com/)** - Convert text to handwriting style.
+- **[TextReverse Handwriting](https://www.textreverse.com/)** - Another handwriting converter.
+- **[Saurabh Handwriting](https://saurabhhandwriting.com/)** - Customizable handwriting generator.
+- **[10015 Handwriting](https://10015handwriting.com/)** - Text-to-handwriting tool.
+- **[TextToHandwriting](https://texttohandwriting.com/)** - Simulate handwritten notes.
+- **[ImageResizer](https://imageresizer.com/)** - Resize images online.
+- **[Twibbonize](https://twibbonize.com/)** - Add frames to profile pictures.
+- **[Adalo](https://www.adalo.com/)** - No-code app builder.
+- **[Poe](https://poe.com/)** - AI chatbot platform.
+- **[Jass.im](https://jass.im/)** - AI assistant (needs clarification).
+- **[16 Personalities (Arabic)](https://www.16personalities.com/ar)** - Personality test in Arabic.
+- **[Dictation.io Speech](https://dictation.io/)** - Voice-to-text tool.
+- **[Wonder Dynamics](https://wonderdynamics.com/)** - AI animation and VFX tool.
+- **[Password Generator](https://passwordsgenerator.net/)** - Create secure passwords.
+- **[TheB.AI Chatbot](https://theb.ai/)** - AI chatbot interface.
+- **[Dencode](https://dencode.com/)** - Multi-format encoding/decoding.
+- **[HTML Decode](https://www.html-decode.com/)** - Decode HTML entities.
+- **[Spellbook](https://spellbook.com/)** - AI legal drafting tool.
+- **[W3C Validator](https://validator.w3.org/)** - Validate HTML/CSS.
+- **[Nicomedes](https://nicomedes.com/)** - AI coding assistant.
+- **[PERT/CPM Calculator](https://www.calculatorsoup.com/calculators/finance/pert-cpm-calculator.php)** - Project management tool.
+- **[MiniApps.ai](https://miniapps.ai/)** - AI mini-app generator.
+- **[Online Notepad](https://anotepad.com/)** - Basic note-taking tool.
+- **[ClickSend](https://www.clicksend.com/)** - SMS and communication services.
+- **[Talkatone](https://www.talkatone.com/)** - Free calling and texting app.
+- **[SMS24.me](https://sms24.me/)** - Temporary phone numbers.
+- **[Toools.design](https://toools.design/)** - Design tools collection.
+- **[Beulr](https://beulr.com/)** - Auto-join Zoom meetings.
+- **[ShortlyAI](https://shortlyai.com/)** - AI writing tool.
+- **[PimEyes](https://pimeyes.com/)** - Reverse image search for faces.
+- **[MakeTAFI](https://maketafi.com/)** - AI task automation (needs clarification).
+- **[AppOnFly](https://www.apponfly.com/)** - Cloud-based app access.
+- **[MyLiveWallpapers](https://mylivewallpapers.com/)** - Animated wallpapers.
+- **[MoeWalls](https://moewalls.com/)** - High-quality animated wallpapers.
+- **[Free4Talk](https://free4talk.com/)** - Language practice chat.
+- **[Cleanup Pictures](https://cleanup.pictures/)** - Remove objects from photos.
+- **[TheInpaint](https://theinpaint.com/)** - Photo retouching tool.
+- **[Cutout.pro](https://cutout.pro/)** - Remove unwanted objects from images.
+- **[PhotoRoom](https://www.photoroom.com/)** - Photo editing and object removal.
+- **[StudyX Matching](https://studyx.com/)** - Study tool (specific use unclear).
+- **[LunaPic Recover](https://www.lunapic.com/)** - Photo editing with recovery.
+- **[NoHat Photo Editor](https://nohat.com/)** - Basic online photo editor.
+- **[PixelCut Upscaler](https://pixelcut.ai/upscaler)** - AI image upscaling.
+- **[Text-Compare](https://text-compare.com/)** - Compare two text inputs.
+- **[Weather Codes](https://weather.codes/)** - Weather data by location.
+- **[StartEngine](https://www.startengine.com/)** - Crowdfunding for startups.
+- **[Typst](https://typst.app/)** - Modern typesetting tool.
+- **[Svelte](https://svelte.dev/)** - JavaScript framework.
+- **[Online Mic Test](https://onlinemictest.com/)** - Test mouse and mic.
+- **[MouseTester](https://www.mousetester.com/)** - Test mouse performance.
+- **[EDA Playground](https://edaplayground.com/)** - Simulate HDL (Verilog/VHDL).
+- **[JDoodle Verilog](https://www.jdoodle.com/verilog-online-compiler)** - Online Verilog compiler.
+- **[CoderPad Verilog](https://coderpad.io/)** - Verilog coding environment.
+- **[Tutorialspoint Verilog](https://www.tutorialspoint.com/verilog/index.htm)** - Verilog compiler online.
+- **[SnapSave](https://snapsave.app/)** - Download videos from social media.
+- **[Livepeer](https://livepeer.org/)** - Decentralized video streaming.
+- **[Lighthouse](https://lighthouse.storage/)** - Decentralized file storage.
+- **[IBB.co](https://ibb.co/)** - Image hosting and sharing.
+- **[Payhip](https://payhip.com/)** - Sell digital products.
+- **[Word2MD](https://word2md.com/)** - Convert Word to Markdown.
+- **[Word to HTML](https://wordtohtml.net/)** - Convert Word to HTML.
+- **[RIPES](https://rip.etsii.urjc.es/)** - RISC-V simulator.
+- **[FutureMe](https://www.futureme.org/)** - Send emails to your future self.
+- **[Mustqbl.me](https://mustqbl.me/)** - Future messaging service.
