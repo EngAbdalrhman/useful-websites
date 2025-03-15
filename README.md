@@ -247,6 +247,7 @@
 - **[IOGames](https://iogames.space/)** - Collection of .io games.
 - **[NetGames Avalon](https://netgamesavalon.com/)** - Avalon game online.
 - **[Poki](https://poki.com/)** - Free online games.
+- **[crazygamesIO](https://www.crazygames.com/c/io)** - Free online games.
 
 ## Miscellaneous Tools
 - **[Quran.com](https://quran.com/)** - Online Quran reading and translation.
