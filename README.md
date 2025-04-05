@@ -414,3 +414,17 @@
 - **[RIPES](https://rip.etsii.urjc.es/)** - RISC-V simulator.
 - **[FutureMe](https://www.futureme.org/)** - Send emails to your future self.
 - **[Mustqbl.me](https://mustqbl.me/)** - Future messaging service.
+- **[reqbin.com](https://reqbin.com/)** - Online REST & SOAP API Testing Tool.
+- **[textfx](https://textfx.withgoogle.com/)** - Acronym. Create an acronym using the letters of a word.
+- https://modelcontextprotocol.io/introduction
+- https://sql-talk-r5gdynozbq-uc.a.run.app/
+- https://www.hailuo.ai/
+- www.code-mo.com
+- **[bolt.new](bolt.new)** - AI Powered IDE
+- **[http://trea.ai/](https://www.trae.ai/)** - AI Powered IDE
+- **[http://cursor.com/](https://www.cursor.com/)** - AI Powered IDE
+- https://vercel.com/
+- https://www.netlify.com/
+
+
+
