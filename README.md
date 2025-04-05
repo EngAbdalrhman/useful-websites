@@ -76,8 +76,22 @@
 - **[Text to Image](https://texttoimage.com/)** - Convert text to image format.
 - **[LogoAI](https://logoai.com/)** - AI-powered logo creator.
 - **[Same](same.dev)** - Clone UIs With AI.
+- **[bolt.new](bolt.new)** - AI Powered IDE
+- **[http://trea.ai/](https://www.trae.ai/)** - AI Powered IDE
+- **[http://cursor.com/](https://www.cursor.com/)** - AI Powered IDE
+- **[MiniApps.ai](https://miniapps.ai/)** - AI mini-app generator.
+- **[ShortlyAI](https://shortlyai.com/)** - AI writing tool.
+- **[Nicomedes](https://nicomedes.com/)** - AI coding assistant.
+- **[Spellbook](https://spellbook.com/)** - AI legal drafting tool.
+- **[Poe](https://poe.com/)** - AI chatbot platform.
+- **[Jass.im](https://jass.im/)** - AI assistant (needs clarification).
+- **[PixelCut Upscaler](https://pixelcut.ai/upscaler)** - AI image upscaling.
+- **[Wonder Dynamics](https://wonderdynamics.com/)** - AI animation and VFX tool.
+- **[TheB.AI Chatbot](https://theb.ai/)** - AI chatbot interface.
+- **[MakeTAFI](https://maketafi.com/)** - AI task automation (needs clarification).
 
-  
+
+
 ## Flutter and Mobile Development
 - **[JSON to Dart](https://jasonwatmore.com/json-to-dart)** - Convert JSON to Dart classes.
 - **[Pub.dev Packages](https://pub.dev/)** - Official Flutter package repository.
@@ -358,29 +372,20 @@
 - **[ImageResizer](https://imageresizer.com/)** - Resize images online.
 - **[Twibbonize](https://twibbonize.com/)** - Add frames to profile pictures.
 - **[Adalo](https://www.adalo.com/)** - No-code app builder.
-- **[Poe](https://poe.com/)** - AI chatbot platform.
-- **[Jass.im](https://jass.im/)** - AI assistant (needs clarification).
 - **[16 Personalities (Arabic)](https://www.16personalities.com/ar)** - Personality test in Arabic.
 - **[Dictation.io Speech](https://dictation.io/)** - Voice-to-text tool.
-- **[Wonder Dynamics](https://wonderdynamics.com/)** - AI animation and VFX tool.
 - **[Password Generator](https://passwordsgenerator.net/)** - Create secure passwords.
-- **[TheB.AI Chatbot](https://theb.ai/)** - AI chatbot interface.
 - **[Dencode](https://dencode.com/)** - Multi-format encoding/decoding.
 - **[HTML Decode](https://www.html-decode.com/)** - Decode HTML entities.
-- **[Spellbook](https://spellbook.com/)** - AI legal drafting tool.
 - **[W3C Validator](https://validator.w3.org/)** - Validate HTML/CSS.
-- **[Nicomedes](https://nicomedes.com/)** - AI coding assistant.
 - **[PERT/CPM Calculator](https://www.calculatorsoup.com/calculators/finance/pert-cpm-calculator.php)** - Project management tool.
-- **[MiniApps.ai](https://miniapps.ai/)** - AI mini-app generator.
 - **[Online Notepad](https://anotepad.com/)** - Basic note-taking tool.
 - **[ClickSend](https://www.clicksend.com/)** - SMS and communication services.
 - **[Talkatone](https://www.talkatone.com/)** - Free calling and texting app.
 - **[SMS24.me](https://sms24.me/)** - Temporary phone numbers.
 - **[Toools.design](https://toools.design/)** - Design tools collection.
 - **[Beulr](https://beulr.com/)** - Auto-join Zoom meetings.
-- **[ShortlyAI](https://shortlyai.com/)** - AI writing tool.
 - **[PimEyes](https://pimeyes.com/)** - Reverse image search for faces.
-- **[MakeTAFI](https://maketafi.com/)** - AI task automation (needs clarification).
 - **[AppOnFly](https://www.apponfly.com/)** - Cloud-based app access.
 - **[MyLiveWallpapers](https://mylivewallpapers.com/)** - Animated wallpapers.
 - **[MoeWalls](https://moewalls.com/)** - High-quality animated wallpapers.
@@ -392,7 +397,6 @@
 - **[StudyX Matching](https://studyx.com/)** - Study tool (specific use unclear).
 - **[LunaPic Recover](https://www.lunapic.com/)** - Photo editing with recovery.
 - **[NoHat Photo Editor](https://nohat.com/)** - Basic online photo editor.
-- **[PixelCut Upscaler](https://pixelcut.ai/upscaler)** - AI image upscaling.
 - **[Text-Compare](https://text-compare.com/)** - Compare two text inputs.
 - **[Weather Codes](https://weather.codes/)** - Weather data by location.
 - **[StartEngine](https://www.startengine.com/)** - Crowdfunding for startups.
@@ -416,15 +420,14 @@
 - **[Mustqbl.me](https://mustqbl.me/)** - Future messaging service.
 - **[reqbin.com](https://reqbin.com/)** - Online REST & SOAP API Testing Tool.
 - **[textfx](https://textfx.withgoogle.com/)** - Acronym. Create an acronym using the letters of a word.
-- https://modelcontextprotocol.io/introduction
+- **[MCP](https://modelcontextprotocol.io/introduction)** - Model context Protocol.
+- https://microservices.io/
 - https://sql-talk-r5gdynozbq-uc.a.run.app/
 - https://www.hailuo.ai/
 - www.code-mo.com
-- **[bolt.new](bolt.new)** - AI Powered IDE
-- **[http://trea.ai/](https://www.trae.ai/)** - AI Powered IDE
-- **[http://cursor.com/](https://www.cursor.com/)** - AI Powered IDE
 - https://vercel.com/
 - https://www.netlify.com/
-
-
+- https://partyrock.aws/u/Mohameed/1UyjrVQWW/ATS-Optimized-CV-Builder
+- https://www.kaggle.com/
+- https://archive.ics.uci.edu/
 
