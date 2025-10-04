@@ -421,6 +421,8 @@
 - **[reqbin.com](https://reqbin.com/)** - Online REST & SOAP API Testing Tool.
 - **[textfx](https://textfx.withgoogle.com/)** - Acronym. Create an acronym using the letters of a word.
 - **[MCP](https://modelcontextprotocol.io/introduction)** - Model context Protocol.
+- **[WinXp]([https://modelcontextprotocol.io/introduction](https://pauljaguin.com/office?fbclid=IwQ0xDSwKZxGVjbGNrApnEY2V4dG4DYWVtAjExAAEev7FneObBrKMGvK4R4sIe6VBcQQv1yWokHmcDRgDbkvs4SI9KRTcRRo--CHE_aem_hdVvtSI6gR7mbvk37OYx-Q
+))** - Windows Xp Simulator.
 - https://microservices.io/
 - https://sql-talk-r5gdynozbq-uc.a.run.app/
 - https://www.hailuo.ai/
@@ -430,4 +432,22 @@
 - https://partyrock.aws/u/Mohameed/1UyjrVQWW/ATS-Optimized-CV-Builder
 - https://www.kaggle.com/
 - https://archive.ics.uci.edu/
+- https://cloud.appwrite.io/
+- https://console.firebase.google.com/
+- https://notebooklm.google.com/
+- https://stitch.withgoogle.com/
+- https://testflair.com/
+- https://cvupper.netlify.app/
+- https://notegpt.io/youtube-video-summarizer
+- https://flutlab.io/editor/
+- https://www.flutterflow.io/
+- https://www.fluxbuilder.com/
+- https://flutterviz.com/
+- https://zapp.run/
+- https://flutterstudio.app/
+- https://codesandbox.io/
+- https://turboscribe.ai/dashboard
+- https://elevenlabs.io/
+- https://www.deepl.com/en/translator
+- https://cobalt.tools/
 
