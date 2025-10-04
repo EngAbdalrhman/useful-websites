@@ -421,8 +421,7 @@
 - **[reqbin.com](https://reqbin.com/)** - Online REST & SOAP API Testing Tool.
 - **[textfx](https://textfx.withgoogle.com/)** - Acronym. Create an acronym using the letters of a word.
 - **[MCP](https://modelcontextprotocol.io/introduction)** - Model context Protocol.
-- **[WinXp]([https://modelcontextprotocol.io/introduction](https://pauljaguin.com/office?fbclid=IwQ0xDSwKZxGVjbGNrApnEY2V4dG4DYWVtAjExAAEev7FneObBrKMGvK4R4sIe6VBcQQv1yWokHmcDRgDbkvs4SI9KRTcRRo--CHE_aem_hdVvtSI6gR7mbvk37OYx-Q
-))** - Windows Xp Simulator.
+- **[WinXp](https://pauljaguin.com/office?fbclid=IwQ0xDSwKZxGVjbGNrApnEY2V4dG4DYWVtAjExAAEev7FneObBrKMGvK4R4sIe6VBcQQv1yWokHmcDRgDbkvs4SI9KRTcRRo--CHE_aem_hdVvtSI6gR7mbvk37OYx-Q)** - Windows Xp Simulator.
 - https://microservices.io/
 - https://sql-talk-r5gdynozbq-uc.a.run.app/
 - https://www.hailuo.ai/
