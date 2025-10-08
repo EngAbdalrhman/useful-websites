@@ -444,9 +444,11 @@
 - https://flutterviz.com/
 - https://zapp.run/
 - https://flutterstudio.app/
+- https://dbdiagram.io/home
 - https://codesandbox.io/
 - https://turboscribe.ai/dashboard
 - https://elevenlabs.io/
 - https://www.deepl.com/en/translator
 - https://cobalt.tools/
-
+- https://colorhunt.co/
+- https://www.svgviewer.dev/
