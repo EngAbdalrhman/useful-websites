@@ -446,6 +446,10 @@
 - https://flutterstudio.app/
 - https://dbdiagram.io/home
 - https://codesandbox.io/
+- https://static.app/
+- https://picsvg.com/
+- https://base64.guru/converter/decode/pdf
+- https://account.mongodb.com/
 - https://turboscribe.ai/dashboard
 - https://elevenlabs.io/
 - https://www.deepl.com/en/translator
